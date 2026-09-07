@@ -1,7 +1,5 @@
 <div align="center">
 
-# Sun
-
 ### AI / ML Engineer · LLM Systems · GPU Computing · Agents
 
 Building practical AI systems across **consumer-GPU LLM training, GPU-accelerated computing, autonomous agents, and edge ML**.
